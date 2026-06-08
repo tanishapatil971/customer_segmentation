@@ -50,6 +50,14 @@ Customer Distribution:
 - customer_segments.png
 - customer_segments.csv
 
+## Elbow Method
+
+![Elbow Method](elbow_method.png)
+
+## Customer Segmentation Result
+
+![Customer Segments](customer_segments.png)
+
 ## Internship
 
 Prodigy InfoTech
